@@ -9,9 +9,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) git eğitiminde oluşturduğumuz bi
 
 Öncelikle projeyi clone'layın.[KodluyoruzİlkRepo](https://github.com/Cranked/kodluyoruzilkrepo)
 
--------------------------------------------------
-### ```git clone https://github.com/Cranked/kodluyoruzilkrepo```
-
+---
+### `git clone https://github.com/Cranked/kodluyoruzilkrepo`
 ---
 
 ## **Usage**
@@ -25,8 +24,8 @@ Linux için:
 
 ## **Contributing**
 ---
-`Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. `
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ---
-## License
+## **License**
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
